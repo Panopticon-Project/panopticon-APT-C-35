@@ -13,3 +13,9 @@ https://therecord.media/apt-groups-from-china-russia-and-india-adopt-novel-attac
 https://www.proofpoint.com/us/blog/threat-insight/injection-new-black-novel-rtf-template-inject-technique-poised-widespread
 
 https://blog.talosintelligence.com/2022/02/whats-with-shared-vba-code.html
+
+https://blog.trendmicro.com/trendlabs-security-intelligence/first-active-attack-exploiting-cve-2019-2215-found-on-google-play-linked-to-sidewinder-apt-group/
+
+https://www.trendmicro.com/en_us/research/20/l/sidewinder-leverages-south-asian-territorial-issues-for-spear-ph.html
+
+https://thehackernews.com/2021/12/researchers-detail-how-pakistani.html
