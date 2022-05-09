@@ -19,3 +19,5 @@ https://blog.trendmicro.com/trendlabs-security-intelligence/first-active-attack-
 https://www.trendmicro.com/en_us/research/20/l/sidewinder-leverages-south-asian-territorial-issues-for-spear-ph.html
 
 https://thehackernews.com/2021/12/researchers-detail-how-pakistani.html
+
+https://www.darkreading.com/endpoint/1000-attacks-sidewinder-apt-sheds-skin
