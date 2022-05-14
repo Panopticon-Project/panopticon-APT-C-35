@@ -21,3 +21,5 @@ https://www.trendmicro.com/en_us/research/20/l/sidewinder-leverages-south-asian-
 https://thehackernews.com/2021/12/researchers-detail-how-pakistani.html
 
 https://www.darkreading.com/endpoint/1000-attacks-sidewinder-apt-sheds-skin
+
+https://www.theregister.com/2022/05/12/sidewinder_apt_attack_spree/
