@@ -25,3 +25,5 @@ https://www.darkreading.com/endpoint/1000-attacks-sidewinder-apt-sheds-skin
 https://www.theregister.com/2022/05/12/sidewinder_apt_attack_spree/
 
 https://blog.checkpoint.com/2022/07/13/a-hit-is-made-suspected-india-based-sidewinder-apt-successfully-cyber-attacks-pakistan-military-focused-targets/
+
+https://www.zscaler.com/blogs/security-research/warhawk-new-backdoor-arsenal-sidewinder-apt-group-0
